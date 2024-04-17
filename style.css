@@ -1,0 +1,22 @@
+.intro{
+    margin-top: 70px;
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+.images{
+    display: flex;
+    justify-content: center;
+margin-top: 100px;
+gap: 50px;
+
+}
+footer{
+    color: coral;
+    justify-content: center;
+    background-color: brown;
+height: 60px;
+display: flex;
+padding: 20px;
+
+}
